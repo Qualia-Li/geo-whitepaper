@@ -378,7 +378,7 @@ Regular use of these tools will help you maintain consistent progress, measure r
 
 **About the Authors**
 
-**Kuan-Lai Lee** and **Sergii Melachov** are recognized experts in digital marketing and emerging technologies, with extensive experience in search optimization and AI-driven marketing strategies.
+**Quanlai Li** and **Sergii Molchanov** are recognized experts in digital marketing and emerging technologies, with extensive experience in search optimization and AI-driven marketing strategies.
 
 ---
 

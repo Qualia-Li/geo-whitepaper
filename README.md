@@ -1,6 +1,6 @@
 # Generative Engine Optimization — Winning Visibility in the AI Era
 
-**Authors:** Kuan-Lai Lee and Sergii Melachov
+**Authors:** Quanlai Li and Sergii Molchanov
 
 An essential guide to optimizing content for AI-powered search engines and large language models.
 
